@@ -1,0 +1,20 @@
+{
+  "name": "k8s-debug",
+  "version": "1.0.0",
+  "description": "Debug Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhs/k8s-debug.git"
+  },
+  "author": "rhs@alum.mit.edu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rhs/k8s-debug/issues"
+  },
+  "homepage": "https://github.com/rhs/k8s-debug#readme"
+}
